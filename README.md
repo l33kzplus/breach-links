@@ -91,6 +91,9 @@ Torrent files for data breaches used in research
 #### 🧲 Magnet Link
     magnet:?xt=urn:btih:85cb34ed97584693afc092de4fbde32cb57d32ad&dn=Verifications_IO.7z&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 
+# 🔑 Exploit.in.zip
+#### 🧲 Magnet Link
+    magnet:?xt=urn:btih:291f0e04370b4a1a7196607b54cde34e2fd7dfcd&dn=exploit.in.zip&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 
 
     
