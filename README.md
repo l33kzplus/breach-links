@@ -12,6 +12,8 @@ Torrent files for data breaches used in research
 > 💡 Source:  https://noirth.com/threads/cit0day-leaks.9221/
 >
 > 🔓 Password:  `xss.is`
+> 
+> 💾 Size:  13.04 GB
 
 # 🔑 Collection 1
 #### 🧲 Magnet Link 1
@@ -19,6 +21,8 @@ Torrent files for data breaches used in research
 
 #### 🧲 Magnet Link 2
     magnet:?xt=urn:btih:b39c603c7e18db8262067c5926e7d5ea5d20e12e&dn=Collection+1
+
+> 💾 Size:  36.25 GB
 
 # 🔑 Collection 2-5 & Antipublic
 #### 🧲 Magnet Link 1
