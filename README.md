@@ -35,14 +35,16 @@ Source:  https://noirth.com/threads/cit0day-leaks.9221/
 
 # BreachCompilation
 `magnet:?xt=urn:btih:7ffbcd8cee06aba2ce6561688cf68ce2addca0a3`
-BreachCompilation:
- `magnet:?xt=urn:btih:7ffbcd8cee06aba2ce6561688cf68ce2addca0a3&dn=BreachCompilation&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fglotorrents.pw%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337`
+
+`magnet:?xt=urn:btih:7ffbcd8cee06aba2ce6561688cf68ce2addca0a3&dn=BreachCompilation&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Fglotorrents.pw%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337`
+
 `magnet:?xt=urn:btih:7FFBCD8CEE06ABA2CE6561688CF68CE2ADDCA0A3&dn=BreachCompilation`
 
 
 # Facebook Leak [2019][533M Records][106 Countries]
 `magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d`
 How to Use Facebook files & search:
+
 `https://github.com/davidfegyver/facebook-533m`
 
 
