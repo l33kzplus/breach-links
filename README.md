@@ -5,11 +5,11 @@ Torrent files for data breaches used in research
 #### These links are already available all over the internet
 ##### Also Note, Trying to login into someone else's account without their permission is unethical and illegal
 
-# 🔑 Cit0day Leak (password:  xss.is)
+# 🔑 Cit0day Leak
 #### 🧲 Magnet Link
     magnet:?xt=urn:btih:92d00ba67037fd4397fe5259824b0f0a5d3b0f33&dn=Cit0day.in%5Fspecial%5Ffor%5Fxss.is.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce
 
-> Source:  https://noirth.com/threads/cit0day-leaks.9221/
+> 💡 Source:  https://noirth.com/threads/cit0day-leaks.9221/
 >
 > 🔓 Password:  `xss.is`
 
@@ -64,13 +64,15 @@ Torrent files for data breaches used in research
 > [FB Usage](https://github.com/davidfegyver/facebook-533m)
 
 
-# 🔑 Compilation of Many breaches(COMB)  (Zip Password: +w/P3PRqQQoJ6g )
+# 🔑 Compilation of Many breaches(COMB)
 #### 🧲 Magnet Link]
     magnet:?xt=urn:btih:af2879db0fab2a32ba38d0491aa8fea5e29d3678&dn=CompilationOfManyBreaches.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=http%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2f47.ip-51-68-199.eu%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ds.is%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=http%3a%2f%2frt.tace.ru%3a80%2fannounce&tr=udp%3a%2f%2fvalakas.rollo.dnsabr.com%3a2710%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce
 
-> Password for the COMB: `+w/P3PRqQQoJ6g`
+> 🔓 Password for the COMB:
 >
-> Try extracting with 7zip via command line:
+> `+w/P3PRqQQoJ6g`
+>
+> 💡 Try extracting with 7zip via command line:
 > 
 > `7z x CompilationOfManyBreaches.7z -p"+w/P3PRqQQoJ6g"`
 
