@@ -1,9 +1,9 @@
 # breach-links
 Torrent files for data breaches used in research
 
-# Please Note, I am sharing this, hoping this will be used for good public use, such as data analysis, penetration testing etc
-# These links are already available all over the internet
-# Also Note, Trying to login into someone else's account without their permission is unethical and illegal
+### Please Note, I am sharing this, hoping this will be used for good public use, such as data analysis, penetration testing etc
+### These links are already available all over the internet
+#### Also Note, Trying to login into someone else's account without their permission is unethical and illegal
 
 # Cit0day Leak (password:  xss.is)
 magnet:?xt=urn:btih:92d00ba67037fd4397fe5259824b0f0a5d3b0f33&dn=Cit0day.in%5Fspecial%5Ffor%5Fxss.is.zip&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=http%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.ch%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=http%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce
@@ -27,8 +27,7 @@ magnet:?xt=urn:btih:69c6118446cdd7ec472e443e2353ee012c8bb618&dn=EpikFailThe_b_Si
 # EpikFailYouLostTheGame
 magnet:?xt=urn:btih:f0b3350cf127af14e008453747f4fa70e5e52010&dn=EpikFailYouLostTheGame&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.moeking.me%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.bitsearch.to%3a1337%2fannounce&tr=udp%3a%2f%2fretracker.netbynet.ru%3a2710%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2fbt2.archive.org%3a6969%2fannounce&tr=udp%3a%2f%2fbt1.archive.org%3a6969%2fannounce&tr=https%3a%2f%2ftracker.nanoha.org%3a443%2fannounce&tr=https%3a%2f%2ftracker.lilithraws.cf%3a443%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2f9.rarbg.com%3a2810%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce
 
-
-#12 Billion special for xss
+# 12 Billion special for xss
 magnet:?xt=urn:btih:603B6C2AB085BEB091E7C232B51E7848068C787A
 
 # BreachCompilation
