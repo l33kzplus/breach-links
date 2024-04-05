@@ -102,6 +102,11 @@ Torrent files for data breaches used in research
 # 🔑 "Raw" (448 GB of leaks)
 #### 🧲 Magnet Link
     magnet:?xt=urn:btih:85ae71166b3129f0f9517c7dc6417de5f3e8cfd3&dn=Raw&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
+
+# 🔑 17_million_hq_combo.txt Plaintext
+#### 🧲 Magnet Link
+    https://github.com/hacxx-underground/Files/blob/main/1.7%20Million%20HQ%20Combo%20List%20Email%3APass%20%5BNetflix%2C%20Minecraft%2C%20Nordvpn%2C%20Spotify%2C%20Steam%2C%20etc%5D
+
     
 # Other Leaks:
 `https://ddosecrets.com/wiki/Special:AllPages`
