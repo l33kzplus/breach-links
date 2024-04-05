@@ -95,6 +95,9 @@ Torrent files for data breaches used in research
 #### 🧲 Magnet Link
     magnet:?xt=urn:btih:291f0e04370b4a1a7196607b54cde34e2fd7dfcd&dn=exploit.in.zip&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 
+# 🔑 12 Billion special for xss.is
+#### 🧲 Magnet Link
+    magnet:?xt=urn:btih:603b6c2ab085beb091e7c232b51e7848068c787a&dn=12billion+special+for+xss.is&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 
     
 # Other Leaks:
