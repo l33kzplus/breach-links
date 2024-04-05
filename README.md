@@ -43,6 +43,7 @@ Source:  https://noirth.com/threads/cit0day-leaks.9221/
 
 # Facebook Leak [2019][533M Records][106 Countries]
 `magnet:?xt=urn:btih:0595273ab674e05131a757f69f494a4285b429aa&dn=Facebook%20Leak%20%5b2019%5d%5b533M%20Records%5d%5b106%20Countries%5d`
+
 How to Use Facebook files & search:
 
 `https://github.com/davidfegyver/facebook-533m`
@@ -51,7 +52,9 @@ How to Use Facebook files & search:
 # Compilation of Many breaches(COMB)  (Zip Password: +w/P3PRqQQoJ6g )
 `magnet:?xt=urn:btih:af2879db0fab2a32ba38d0491aa8fea5e29d3678&dn=CompilationOfManyBreaches.7z&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce&tr=http%3a%2f%2fexplodie.org%3a6969%2fannounce&tr=udp%3a%2f%2fopentracker.i2p.rocks%3a6969%2fannounce&tr=udp%3a%2f%2f47.ip-51-68-199.eu%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.tiny-vps.com%3a6969%2fannounce&tr=udp%3a%2f%2fwww.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2ftracker.torrent.eu.org%3a451%2fannounce&tr=udp%3a%2f%2fopen.stealth.si%3a80%2fannounce&tr=udp%3a%2f%2ftracker.ds.is%3a6969%2fannounce&tr=udp%3a%2f%2fretracker.lanta-net.ru%3a2710%2fannounce&tr=udp%3a%2f%2ftracker.dler.org%3a6969%2fannounce&tr=udp%3a%2f%2fipv4.tracker.harry.lu%3a80%2fannounce&tr=http%3a%2f%2frt.tace.ru%3a80%2fannounce&tr=udp%3a%2f%2fvalakas.rollo.dnsabr.com%3a2710%2fannounce&tr=udp%3a%2f%2fopentor.org%3a2710%2fannounce`
 Password for the COMB: `+w/P3PRqQQoJ6g`
+
 Try extracting with 7zip via command line:
+
 `7z x CompilationOfManyBreaches.7z -p"+w/P3PRqQQoJ6g"`
 
 
@@ -76,6 +79,7 @@ Try extracting with 7zip via command line:
 ## Breach Parsers
 
 https://github.com/audibleblink/passdb-frontend
+
 https://github.com/audibleblink/passdb-backend
 
 https://github.com/secworld/Breach-Miner
@@ -84,24 +88,45 @@ https://github.com/DreggHunShot/DBPP
 
 ## Breach Sites / Discovery Tools
 https://github.com/antonlindstrom/passpwn
+
 whatbreach
+
 h8mail
+
 hibp
+
 https://github.com/hmaverickadams/breach-parse
+
 https://github.com/KathanP19/BreachedDataScraper
+
 https://github.com/ofarukcaki/dataleaks
+
 https://github.com/xakepnz/BLUELAY
+
 https://github.com/jayyogesh/BaseQuery
+
 https://github.com/artofscripting/PySearchBreachCompilation
+
 https://github.com/chparmley/FB-Breach-Checker
+
 https://github.com/FreiBj/data-breach-formatter
+
 https://github.com/p4wnsolo/EmailPwnCheckerbot ( this is also a great Selenium example )
+
 https://github.com/GihuMendes/breach-parse/blob/main/parser.sh ( parse COMB with simple Python )
+
 https://github.com/SagarSRJ/Breach-Parser ( parse .csv )
+
 https://github.com/davieking1/breachpearser ( parse COMB )
+
 https://github.com/TheFern2/breach-parse.py/tree/main/breach_parse ( parse COMB - looks recent )
+
 https://github.com/FreeZeroDays/breach-rip ( faster COMB parser )
+
 https://github.com/alivirgo/read-a-password-file-huge-lists
+
 https://github.com/martintjj/BreachCompilation ( tools in Breach Compilation - 4 yrs old )
+
 https://github.com/jesusgoku/targz-search ( search .txt files within .tar.gz files )
+
 
