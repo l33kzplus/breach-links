@@ -107,6 +107,9 @@ Torrent files for data breaches used in research
 #### 🧲 Magnet Link
     https://github.com/hacxx-underground/Files/blob/main/1.7%20Million%20HQ%20Combo%20List%20Email%3APass%20%5BNetflix%2C%20Minecraft%2C%20Nordvpn%2C%20Spotify%2C%20Steam%2C%20etc%5D
 
+# 🔑 Naz.API
+#### 🧲 Magnet Link
+    magnet:?xt=urn:btih:bcaa3b8a2371b4367bbfbdb29318beb739808c5b&dn=naz.api.tar.zst&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
     
 # Other Leaks:
 `https://ddosecrets.com/wiki/Special:AllPages`
