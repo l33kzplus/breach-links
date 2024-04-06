@@ -111,19 +111,14 @@ Torrent files for data breaches used in research
 #### 🧲 Magnet Link
     magnet:?xt=urn:btih:bcaa3b8a2371b4367bbfbdb29318beb739808c5b&dn=naz.api.tar.zst&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
     
+# 🔑 388GB of Leaks incl Dropbox Leak
+#### 🧲 Magnet Link
+    magnet:?xt=urn:btih:595ff005ad0faf81c7126f07e30f50384345d746&dn=leaks&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
+
+
+
 # Other Leaks:
 `https://ddosecrets.com/wiki/Special:AllPages`
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Breach Parsers
