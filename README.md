@@ -115,6 +115,9 @@ Torrent files for data breaches used in research
 #### 🧲 Magnet Link
     magnet:?xt=urn:btih:595ff005ad0faf81c7126f07e30f50384345d746&dn=leaks&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 
+# 🔑 Wattpad (part of larger magnet)
+#### 🧲 Magnet Link
+    magnet:?xt=urn:btih:9f8083b46a725640f074fe364fe5e8fff94f37f4&dn=files&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 
 
 # Other Leaks:
